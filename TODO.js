@@ -5,7 +5,7 @@ let push =document.querySelector('#push')
 
 // TRy-Catch code:-
 //     if(document.querySelector('#new-task input').
-// value.length == 0){
+// value.length == 0){.....
 //         alert("Please Enter The Task !!!")
 //     }else{
 
